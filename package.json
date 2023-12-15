@@ -8,6 +8,10 @@
   },
   "author": "Luis Alejandro Bordo García",
   "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alebg/npm_publish_example"
+  },
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
