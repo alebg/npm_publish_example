@@ -1,0 +1,15 @@
+{
+  "name": "npm_eg_alebg",
+  "version": "0.1.0",
+  "description": "Test package to be published to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Alejandro Bordo García",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
