@@ -1,6 +1,6 @@
 {
   "name": "npm_eg_alebg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Test package to be published to npm",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
